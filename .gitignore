@@ -1,0 +1,10 @@
+node_modules
+lambda.zip
+
+.DS_Store
+
+.terraform
+*.tfstate
+*.tfstate.*
+
+out.txt

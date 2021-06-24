@@ -1,0 +1,21 @@
+{
+  "name": "compromised-npm-package",
+  "version": "1.0.2",
+  "description": "POC of a vulnerable app leaking environment variables via a compromised NPM package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "security",
+    "npm",
+    "compromised"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maximivanov/nodejs-leak-env-vars"
+  },
+  "homepage": "https://github.com/maximivanov/nodejs-leak-env-vars",
+  "author": "Max Ivanov",
+  "license": "MIT"
+}
